@@ -1,0 +1,4 @@
+## Training Golang Logging
+
+- Log file adalah file yang berisikan informasi kejadian dari sebuah sistem. Biasanya dalam log file, terdapat informasi waktu kejadian dan pesan kejadian. Logging adalah aksi menambah informasi log ke log file. Logging sudah menjadi standar industri untuk menampilkan informasi yang terjadi di aplikasi yang kita buat. Logging bukan hanya untuk menampilkan informasi, kadang digunakan untuk proses debugging ketika terjadi masalah di aplikasi kita
+- Menggunakan Go-Lang sebenarnya kita bisa package log untuk melakukan logging. Hanya saja karena fiturnya terbatas, oleh karena itu kebanyakan programmer tidak menggunakannya. Pada kelas ini kita tidak akan menggunakan package log di Go-Lang untuk belajar Logging. Untuk training ini kita akan menggunakan library bernama Logrus dengan perintah `go get github.com/sirupsen/logrus`
