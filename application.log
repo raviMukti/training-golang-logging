@@ -1,0 +1,6 @@
+time="2022-02-08T19:38:20+07:00" level=info msg="Info Ditulis Ke File"
+time="2022-02-08T19:38:20+07:00" level=warning msg="Warn Ditulis Ke File"
+time="2022-02-08T19:38:20+07:00" level=error msg="Error Ditulis Ke File"
+time="2022-02-08T19:38:30+07:00" level=info msg="Info Ditulis Ke File"
+time="2022-02-08T19:38:30+07:00" level=warning msg="Warn Ditulis Ke File"
+time="2022-02-08T19:38:30+07:00" level=error msg="Error Ditulis Ke File"
